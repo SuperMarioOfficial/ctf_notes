@@ -6,7 +6,8 @@
 - https://nc110.sourceforge.io/
 - https://www.andreafortuna.org/2017/05/18/reverse-shell-with-netcat-some-use-cases/
 - https://stuffjasondoes.com/2018/07/18/bind-shells-and-reverse-shells-with-netcat/
-- https://randombio.com/linuxsetup86.html
+- https://randombio.com/linuxsetup86.html\
+- [Python local server / file transfer](https://reptile.haus/blog/the-ultimate-reverse-shell-collection/)
 
 
 ## Links to everything 
