@@ -14,3 +14,8 @@
 - https://reptile.haus/blog/the-ultimate-reverse-shell-collection/
 - https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 - https://highon.coffee/blog/reverse-shell-cheat-sheet/
+- https://gtfobins.github.io/gtfobins/systemctl/
+- https://www.infosecademy.com/netcat-reverse-shells/
+- https://unicornsec.com/home/tryhackme-vulnversity
+- https://sckull.github.io/posts/vulnversity/
+- https://www.hackingarticles.in/linux-privilege-escalation-automated-script/
