@@ -4,10 +4,12 @@
 
 ## netcat<3 stuffs
 ```nc -nvlp 1234```
+### file transfer
 On the receiving end,
 ```nc -l -p 1234 | uncompress -c | tar xvfp -```
 On the sending end,
 ```tar cfp - /some/dir | compress -c | nc -w 3 [destination] 1234```
+### image transfer
 A much cooler but less useful use of netcat is, it can transfer an image of the whole hard drive over the wire using a command called dd.
 On the sender end run,
 ```dd if=/dev/hda3 | gzip -9 | nc -l 3333```
